@@ -15,7 +15,7 @@ from modeling import (train_random_forest,
 
 
 file_path = \
-    '/Users/mustafaaktas/Desktop/Wine Quality Modelling/winequality-red.csv'
+    'data/winequality-red.csv'
 
 
 data = load_data(file_path)
